@@ -59,7 +59,8 @@
 
 
 .section {
-    background-image: url('./image/WhatsApp\ Image\ 2025-03-30\ at\ 14.45.20_52cf0fac.jpg'); 
+    background-image: url('./image/WhatsApp\ Image\ 2025-03-30\ at\ 14.45.20_52cf0fac.jpg');
+
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -69,6 +70,8 @@
     padding: 100px 20px;
     text-align: center;
 }
+
+
 
 
 .section::before {
